@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.estilo-impar {
+    background: rgb(248, 136, 136);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}/* Add CSS Styling */
+
+#even1 {
+    color: rgb(3, 3, 189);
+    font-size: 36px;
+}
+
+#even2 {
+    background: rgb(112, 247, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#odd {
+    font-size: 24px;
+}
